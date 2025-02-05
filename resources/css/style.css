@@ -1,16 +1,16 @@
 body {
-    background-color: #00000;
+    background-color: #000000;
     text-align: center;
-    font-family: Veranda, sans-serif;
+    font-family: Verdana, sans-serif;
 }
    
 header--main {
- font-weight: normal
+ font-weight: normal;
  font-size: 50px;
- color: #fffff;
+ color: #ffffff;
 }
 
 .link--cta {
     font-size: 16px;
-    color: #aquamarine;
+    color: aquamarine;
 }
